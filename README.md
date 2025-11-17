@@ -824,6 +824,7 @@ Name | Website | Region
 [vast limits](/company-profiles/vast-limits.md) | https://vastlimits.com/ | Germany
 [Veeva Systems](/company-profiles/veeva.md) | https://www.veeva.com/ | Worldwide
 [Vercel](/company-profiles/vercel.md) | https://vercel.com/ | Worldwide
+[Verve Systems](/company-profiles/vervesystems.md) | https://vervesys.com/ | India 
 [Veryfi](/company-profiles/veryfi.md) | https://veryfi.com/about | Worldwide
 [VGS](/company-profiles/vgs.md) | https://verygoodsecurity.com/about | Worldwide
 [Viperdev](/company-profiles/viperdev.md) | https://viperdev.io | Worldwide
